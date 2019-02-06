@@ -1,0 +1,12 @@
+Riyadh Avarge 
+-------------
+Select * 
+From city_data WHERE city='Riyadh'
+AND year BETWEEN 1900 AND 2010;
+
+
+-------------------------------------------------------------------------------------
+Global Avarge 
+-------------
+Select * 
+From global_data WHERE year BETWEEN 1900 AND 2010;
